@@ -28,3 +28,4 @@ connection：
 
 * 此程序在执行完命令以后，并不能时时回显结果，也就是说python脚本运行完以后才会返回输出，可以继续完善。
 
+### 详细参照 [http://thief.one](http://thief.one/2016/09/05/PyShell-%E6%9C%A8%E9%A9%AC%E5%90%8E%E9%97%A8/)
